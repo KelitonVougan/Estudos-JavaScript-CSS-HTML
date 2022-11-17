@@ -24,7 +24,8 @@ myImage.addEventListener('load', function(){
             const blue  = pixels.data[(y * 4 * pixels.width) + (x * 4 + 2)];
             const brigthness = calculateRelativeBrightness(red, green, blue);
             const cell = [
-                cellBrightness = brigthness, 
+                cellBrightness = brigthness,
+                cellColor = 'rgb('+ red +','+ green +','+ blue +')'
             ];
             row.push(cell);
         }
@@ -63,7 +64,7 @@ myImage.addEventListener('load', function(){
         }
         draw(){
             contextCanvas.beginPath();
-            contextCanvas.fillStyle = 'white';
+            contextCanvas.fillStyle = mappedImage[this.position1][this.position2][1];
             contextCanvas.arc(this.x, this.y, this.size, 0, Math.PI * 2);
             contextCanvas.fill();
         }
