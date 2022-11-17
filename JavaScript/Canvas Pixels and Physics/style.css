@@ -1,0 +1,20 @@
+#canvas1 {
+    position: absolute;
+}
+
+.controls {
+    position: absolute;
+    z-index: 100;
+}
+
+img {
+    display: none;
+}
+View Compiled
+
+
+button {
+    padding: 20px;
+    font-size: 30px;
+    margin: 10px;
+    }
