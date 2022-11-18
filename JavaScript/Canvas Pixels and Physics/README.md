@@ -1,3 +1,3 @@
-# Canvas-Pixels-and-Physics
+# Demonstração do efeito de particulas
 ![](images/bender_gif.gif)
 
