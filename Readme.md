@@ -3,7 +3,8 @@
 <p align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="60" height="60"/>
 
-<img src="https://media.tenor.com/PlXROjIs2BcAAAAM/javascript-undefined-is-not-a-function.gif" width="640" height="480"/>  </p>
+<img src="https://media.tenor.com/PlXROjIs2BcAAAAM/javascript-undefined-is-not-a-function.gif" width="640" height="480"/>
+</p>
 
 ## Experimentos com foco me JS
 [Efeito de imagem pixelada](https://github.com/KelitonVougan/Estudos-JavaScript-CSS-HTML/tree/master/JavaScript/Canvas%20Pixels%20and%20Physics)
